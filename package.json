@@ -1,0 +1,14 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "chat app with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "chatapp"
+  },
+  "keywords": [
+    "chatapp"
+  ],
+  "author": "Chrisostom kaweza",
+  "license": "ISC"
+}
